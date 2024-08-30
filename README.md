@@ -13,6 +13,7 @@ Kelas: SK3C
 MK: Praktikum Sistem Operasi
 
 1. Pada virtualbox pilih Add untuk menambahkan operating system baru.
+   <br>
    <div align="center">
   <img src="./GIT/awal.png" alt="Deskripsi Gambar" width="800"/>
    </div>
