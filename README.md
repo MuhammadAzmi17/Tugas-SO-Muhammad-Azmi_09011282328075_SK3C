@@ -4,6 +4,8 @@ Langkah-langkah Menginstal Ubuntu di Virtualbox
 
 Anda bisa mendownload file PDF untuk diperiksa,download melalui Release dimungkinkan.
 
+Tugas 1 & tugas 2
+---------------------------------------------------------------------------------------
 Nama: Muhammad Azmi
 
 NIM: 09011282328075
