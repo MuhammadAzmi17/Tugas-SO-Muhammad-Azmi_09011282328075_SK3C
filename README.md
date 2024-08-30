@@ -19,5 +19,8 @@ MK: Praktikum Sistem Operasi
 2. Beri nama virtual machine dan pilih file .iso dari operating system yang ingin di pasang.
                      Disini saya menggunakan Linux Ubuntu 24.04 LTS.
    
-   ![Step 1](./GIT/second.png)
+   ![Step 2](./GIT/second.png)
 
+3. Sesuaikan Memory dan prosessor yang akan dialokasikan untuk virtual machine yang akan digunakan.
+
+    ![Step 3](./GIT/picture1.png)
