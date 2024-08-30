@@ -13,7 +13,10 @@ Kelas: SK3C
 MK: Praktikum Sistem Operasi
 
 1. Pada virtualbox pilih Add untuk menambahkan operating system baru.![Step 1](./GIT/awal.png)
-   
+   <div align="center">
+  <img src="./GIT/awal.png" alt="Deskripsi Gambar" width="400"/>
+   </div>
+
    
 2. Beri nama virtual machine dan pilih file .iso dari operating system yang ingin di pasang.
                      Disini saya menggunakan Linux Ubuntu 24.04 LTS.
