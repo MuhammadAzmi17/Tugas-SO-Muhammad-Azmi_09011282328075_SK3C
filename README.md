@@ -1,4 +1,4 @@
-![Ubuntu 24.04 LTS](./UBUNTU.png)
+![Ubuntu 24.04 LTS](./meme.png)
 
 Langkah-langkah Menginstal Ubuntu di Virtualbox
 
@@ -182,17 +182,16 @@ Mount point sangat penting untuk proses booting. Boot loader akan mengakses file
 
    Jawabannya: <br></br>
    
-   •	ext4 adalah sistem berkas yang digunakan secara default oleh banyak distribusi Linux modern. Ini adalah versi yang dikembangkan lagi  dari ext3 dan menyediakan berbagai perbaikan dalam hal kinerja, kapasitas, dan keandalan.
-      Beberapa kelebihannya seperti mendukung volume hingga 1 EB (exabyte) dan file hingga 16 TB,Stabil, cepat, dan luas digunakan di ekosistem Linux.
+- ext4 adalah sistem berkas yang digunakan secara default oleh banyak distribusi Linux modern. Ini adalah versi yang dikembangkan lagi  dari ext3 dan menyediakan berbagai perbaikan dalam hal kinerja, kapasitas, dan keandalan.Beberapa     kelebihannya seperti mendukung volume hingga 1 EB (exabyte) dan file hingga 16 TB,Stabil, cepat, dan luas digunakan di ekosistem Linux.
    
-   •	ext3 adalah pendahulu dari ext4 dan digunakan secara luas di Linux sebelum ext4 diperkenalkan. Ini menambahkan fitur journaling ke ext2, yang meningkatkan keandalan dengan melacak perubahan yang akan dibuat sebelum diterapkan.
-      Kelebihannya iyalah Stabil dan teruji oleh waktu. Kompatibel dengan ext2.
+- ext3 adalah pendahulu dari ext4 dan digunakan secara luas di Linux sebelum ext4 diperkenalkan. Ini menambahkan fitur journaling ke ext2, yang meningkatkan keandalan dengan melacak perubahan yang akan dibuat sebelum      diterapkan.     Kelebihannya iyalah Stabil dan teruji oleh waktu. Kompatibel dengan ext2.
 
-   •	Swap adalah partisi atau file khusus yang digunakan oleh sistem operasi untuk memperluas memori fisik (RAM) dengan menggunakan ruang disk. Ketika RAM penuh, data yang tidak aktif dipindahkan ke swap, memungkinkan sistem untuk           tetap berjalan dengan lancar.
-      Swap memiliki kekurangan yaitu akses swap jauh lebih lambat dibandingkan RAM fisik, sehingga penggunaan swap secara intensif dapat memperlambat sistem.
+- Swap adalah partisi atau file khusus yang digunakan oleh sistem operasi untuk memperluas memori fisik (RAM) dengan menggunakan ruang disk. Ketika RAM penuh, data yang tidak aktif dipindahkan ke swap, memungkinkan sistem untuk           tetap berjalan dengan lancar. Swap memiliki kekurangan yaitu akses swap jauh lebih lambat dibandingkan RAM fisik, sehingga penggunaan swap secara intensif dapat memperlambat sistem.
 
-   •	NTFS adalah sistem berkas yang dikembangkan oleh Microsoft dan digunakan sebagai sistem berkas default di sistem operasi Windows modern. NTFS mendukung berbagai fitur canggih seperti keamanan berkas, kompresi, dan enkripsi.             Mendukung volume dan file yang sangat besar (hingga 16 EB teoretis).
+- NTFS adalah sistem berkas yang dikembangkan oleh Microsoft dan digunakan sebagai sistem berkas default di sistem operasi Windows modern. NTFS mendukung berbagai fitur canggih seperti keamanan berkas, kompresi, dan enkripsi.             Mendukung volume dan file yang sangat besar (hingga 16 EB teoretis).
 
-   •	FAT32 adalah sistem berkas lama yang digunakan pada perangkat portabel seperti USB flash drive, dan masih digunakan karena kompatibilitasnya yang luas. FAT32 adalah peningkatan dari FAT16, memungkinkan ukuran partisi yang lebih         besar.Fat32 memiliki Kompatibilitas yang sangat luas dengan berbagai sistem operasi (Windows, Linux, macOS).
+- FAT32 adalah sistem berkas lama yang digunakan pada perangkat portabel seperti USB flash drive, dan masih digunakan karena kompatibilitasnya yang luas. FAT32 adalah peningkatan dari FAT16, memungkinkan ukuran partisi yang lebih         besar.Fat32 memiliki Kompatibilitas yang sangat luas dengan berbagai sistem operasi (Windows, Linux, macOS).
 
-   •	btrfs adalah sistem berkas modern yang dirancang untuk menggantikan ext4 dan menyediakan fitur-fitur canggih seperti snapshot, pooling, dan pemeriksaan integritas data. Ini dikembangkan oleh Oracle dan kini digunakan oleh               beberapa distribusi Linux sebagai sistem berkas default.
+- btrfs adalah sistem berkas modern yang dirancang untuk menggantikan ext4 dan menyediakan fitur-fitur canggih seperti snapshot, pooling, dan pemeriksaan integritas data.  
+  Ini dikembangkan oleh Oracle dan kini digunakan oleh beberapa distribusi Linux sebagai sistem berkas default.
+
