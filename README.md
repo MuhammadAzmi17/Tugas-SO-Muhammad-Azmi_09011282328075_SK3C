@@ -1,4 +1,4 @@
-![Ubuntu 24.04 LTS](./meme.png)
+![Ubuntu 24.04 LTS](./apalah.png)
 
 Langkah-langkah Menginstal Ubuntu di Virtualbox
 
