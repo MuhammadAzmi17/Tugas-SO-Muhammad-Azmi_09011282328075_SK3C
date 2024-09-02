@@ -129,14 +129,14 @@ Langkah - langkah
 
 #
 
-15. Tunggu proses instalasi hingga selesai.ini akan memakan cukup anyak waktu, be patien
+15. Tunggu proses instalasi hingga selesai.ini akan memakan cukup banyak waktu, be patien
 <div align="left">
   <img src="./GIT/g13.png" alt="Deskripsi Gambar" width="1000"/>
    </div>
 
 #
 
-16. Saat sudah selesai pilih Restart now
+16. Saat sudah selesai pilih "Restart now"
 <div align="left">
   <img src="./GIT/g14.png" alt="Deskripsi Gambar" width="1000"/>
    </div>
