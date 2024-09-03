@@ -7,6 +7,9 @@ Langkah-langkah Menginstal Ubuntu di Virtualbox
 
 Anda bisa mendownload file PDF untuk diperiksa,download melalui Release dimungkinkan.
 
+## TUGAS YANG LAINNYA
+-[TUGAS KE 3, Tugas 50 command](Tugas_3)
+
 Tugas 1 & tugas 2
 ---------------------------------------------------------------------------------------
 Nama: Muhammad Azmi
