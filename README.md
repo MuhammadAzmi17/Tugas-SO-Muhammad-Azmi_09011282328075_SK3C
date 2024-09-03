@@ -1,3 +1,6 @@
+## TUGAS YANG LAINNYA
+-[TUGAS KE 3,Tugas 50 command](Tugas_3/README.md)
+
 ![Ubuntu 24.04 LTS](./apalah.png)
 
 Langkah-langkah Menginstal Ubuntu di Virtualbox
