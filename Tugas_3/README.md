@@ -42,5 +42,5 @@ Kelas SK3C
 <img src="./Tugas 3 png/GB11.png"/>
 </div>
 <div align=center>
-<img src="./Tugas 3 png/G12.png"/>
+<img src="./Tugas 3 png/GB12.png"/>
 </div>
