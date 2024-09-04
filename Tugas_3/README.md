@@ -10,9 +10,9 @@ Kelas SK3C
 
 *Note:Beberapa command memerlukan instalasi tambahan.
 
-Tugas 1 & 2
+TUGAS LAINNYA
 -----------
-
+-[TUGAS KE 1 & 2, INSTALASI LINUX DAN MENJAWAB PERTANYAAN(././)
 ##
 <div align=center>
 <img src="./Tugas 3 png/GB1.png" width="1000"/>
