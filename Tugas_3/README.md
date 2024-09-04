@@ -7,6 +7,8 @@ By,Muhammad Azmi
 Nim: 09011282328075
 
 Kelas SK3C
+
+*Note:Beberapa command memerlukan instalasi tambahan.
 ##
 <div align=center>
 <img src="./Tugas 3 png/GB1.png" width="1000"/>
@@ -51,9 +53,25 @@ Kelas SK3C
 <div align=center>
 <img src="./Tugas 3 png/GB4.png"/>
 </div>
+
+15. Menampilkan informasi sistem.
+
+16. Menampilkan nama pengguna saat ini.
+
+17. Menampilkan riwayat command yang telah digunakan.
+
 <div align=center>
 <img src="./Tugas 3 png/GB5.png"/>
 </div>
+
+18. Mengunduh file dari internet. Disini saya mendownload google chrome.
+
+19. Menampilkan penggunaan disk dalam format yang mudah dibaca.
+
+20.
+
+21.
+ 
 <div align=center>
 <img src="./Tugas 3 png/GB6.png"/>
 </div>
