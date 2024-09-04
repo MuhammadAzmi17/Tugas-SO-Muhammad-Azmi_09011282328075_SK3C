@@ -14,15 +14,15 @@ Kelas SK3C
 <img src="./Tugas 3 png/GB1.png" width="1000"/>
 </div>
 
-1. Menampilkan daftar file dan direktori di dalam direktori saat ini.
+1. "ls" Menampilkan daftar file dan direktori di dalam direktori saat ini.
 
-2. Mengganti direktori kerja saat ini.
+2. "cd" Mengganti direktori kerja saat ini.
 
-3. Membuat direktori baru.
+3. "mkdir" Membuat direktori baru.
 
-4. Membuat file kosong baru atau memperbarui timestamp file.
+4. "touch" Membuat file kosong baru atau memperbarui timestamp file.
 
-5. Digunakan untuk menggabungkan beberapa file teks menjadi satu file baru, membuat file baru, dan memungkinkan Anda langsung menulis isi file. Setelah selesai, tekan CTRL+D untuk menyimpan.
+5. "cat" Digunakan untuk menggabungkan beberapa file teks menjadi satu file baru, membuat file baru, dan memungkinkan Anda langsung menulis isi file. Setelah selesai, tekan CTRL+D untuk menyimpan.
    
 6. cp -r , Menyalin file atau direktori.
 
@@ -46,7 +46,7 @@ Kelas SK3C
 
 12. Menampilkan daftar proses yang berjalan.
 
-13. Menghentikan proses berdasarkan PID (Process ID). Disini saya kill chrome.
+13. "kill" Menghentikan proses berdasarkan PID (Process ID). Disini saya kill chrome.
 
 14. Menampilkan proses yang berjalan secara real-time.
 
@@ -64,7 +64,7 @@ Kelas SK3C
 <img src="./Tugas 3 png/GB5.png"/>
 </div>
 
-18. Mengunduh file dari internet. Disini saya mendownload google chrome.
+18. "wget" Mengunduh file dari internet. Disini saya mendownload google chrome.
 
 19. Menampilkan penggunaan disk dalam format yang mudah dibaca.
 
