@@ -30,7 +30,7 @@ Berikut 50 Command yang saya coba di Linux Ubuntu:
 
 2. "cd" Mengganti direktori kerja saat ini.
 
-3. "mkdir" Membuat direktori baru.
+3. "rmdir" Menghapus direktori.
 
 4. "touch" Membuat file kosong baru atau memperbarui timestamp file.
 
