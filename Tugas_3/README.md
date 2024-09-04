@@ -9,6 +9,10 @@ Nim: 09011282328075
 Kelas SK3C
 
 *Note:Beberapa command memerlukan instalasi tambahan.
+
+Tugas 1 & 2
+-----------
+
 ##
 <div align=center>
 <img src="./Tugas 3 png/GB1.png" width="1000"/>
