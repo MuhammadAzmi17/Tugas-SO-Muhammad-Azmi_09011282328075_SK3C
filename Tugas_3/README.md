@@ -188,4 +188,5 @@ Berikut 50 Command yang saya coba di Linux Ubuntu:
 
 50. "diff" Menampilkan perbedaan antara dua file teks. Disini antara file helo.txt dan helo2.txt
 
-
+*Pada Nomor 48 ada double dikarenakan human error,mohon maklumnya.
+**mungkin hasil dari tugas ini tidak sempurna,mohon dimengerti.
