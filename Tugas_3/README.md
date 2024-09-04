@@ -11,3 +11,36 @@ Kelas SK3C
 <div align=center>
 <img src="./Tugas 3 png/GB1.png"/>
 </div>
+<div align=center>
+<img src="./Tugas 3 png/GB2.png"/>
+</div>
+<div align=center>
+<img src="./Tugas 3 png/GB3.png"/>
+</div>
+<div align=center>
+<img src="./Tugas 3 png/GB4.png"/>
+</div>
+<div align=center>
+<img src="./Tugas 3 png/GB5.png"/>
+</div>
+<div align=center>
+<img src="./Tugas 3 png/GB6.png"/>
+</div>
+<div align=center>
+<img src="./Tugas 3 png/GB7.png"/>
+</div>
+<div align=center>
+<img src="./Tugas 3 png/GB8.png"/>
+</div>
+<div align=center>
+<img src="./Tugas 3 png/GB9.png"/>
+</div>
+<div align=center>
+<img src="./Tugas 3 png/GB10.png"/>
+</div>
+<div align=center>
+<img src="./Tugas 3 png/GB11.png"/>
+</div>
+<div align=center>
+<img src="./Tugas 3 png/G12.png"/>
+</div>
