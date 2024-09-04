@@ -137,17 +137,51 @@ Berikut 50 Command yang saya coba di Linux Ubuntu:
 35. "" 
 
 <div align=center>
-<img src="./Tugas 3 png/BG13.png"/>
+<img src="./Tugas 3 png/BD13.png"/>
 </div>
+
+36. "" 
+
+37. "" 
+
+38. "" 
+
+39. "" 
+
+40. "" 
+
+41. "" 
 
 <div align=center>
 <img src="./Tugas 3 png/GB14.png"/>
 </div>
 
+42. "" 
+
+43. "" 
+
+44. "" 
+
+45. "" 
+
 <div align=center>
 <img src="./Tugas 3 png/GB15.png"/>
 </div>
 
+46. "" 
+
+47. "" 
+
+48. "" 
+
 <div align=center>
 <img src="./Tugas 3 png/GB16.png"/>
 </div>
+
+48. "" 
+
+49. "" 
+
+50. "" 
+
+
