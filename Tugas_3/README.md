@@ -1,6 +1,8 @@
 Berikut adalah tugas 3 dari matakuliah Sistem Operasi (Praktikum)
 
-![Thumbnai](./Tugas 3 png/thumbnai.png)
+<div align=center>
+<img src="./Tugas 3 png/thumbnail.png" width="1000"/>
+</div>
 
 Tugas 3
 -------
