@@ -1,5 +1,7 @@
 Berikut adalah tugas 3 dari matakuliah Sistem Operasi (Praktikum)
 
+![Thumbnai](./Tugas 3 png/thumbnai.png)
+
 Tugas 3
 -------
 By,Muhammad Azmi
