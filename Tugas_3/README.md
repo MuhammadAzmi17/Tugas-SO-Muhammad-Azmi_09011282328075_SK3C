@@ -38,35 +38,35 @@ Berikut 50 Command yang saya coba di Linux Ubuntu:
 <img src="./Tugas 3 png/GB2.png"/>
 </div>
 
-7. Mencari teks dalam file. Disini saya mencari 'malam'
+7. "grep" Mencari teks dalam file. Disini saya mencari 'malam'
 
-8. Mencari file atau direktori di dalam direktori tertentu.
+8. "find" Mencari file atau direktori di dalam direktori tertentu.
 
-9. Menampilkan penggunaan disk.
+9. "df" Menampilkan penggunaan disk.
 
-10. Mengubah izin file atau direktori. disini saya memberikan izin read kepada semua orang (a) untuk file helo.txt
+10. "chmod a+r" Mengubah izin file atau direktori. disini saya memberikan izin read kepada semua orang (a) untuk file helo.txt
 
-11. Menampilkan penggunaan memori.
+11. "free" Menampilkan penggunaan memori.
 
 <div align=center>
 <img src="./Tugas 3 png/GB3.png"/>
 </div>
 
-12. Menampilkan daftar proses yang berjalan.
+12. "ps" Menampilkan daftar proses yang berjalan.
 
 13. "kill" Menghentikan proses berdasarkan PID (Process ID). Disini saya kill chrome.
 
-14. Menampilkan proses yang berjalan secara real-time.
+14. "top" Menampilkan proses yang berjalan secara real-time.
 
 <div align=center>
 <img src="./Tugas 3 png/GB4.png"/>
 </div>
 
-15. Menampilkan informasi sistem.
+15. "uname" Menampilkan informasi sistem.
 
-16. Menampilkan nama pengguna saat ini.
+16. "whoami" Menampilkan nama pengguna saat ini.
 
-17. Menampilkan riwayat command yang telah digunakan.
+17. "history" Menampilkan riwayat command yang telah digunakan.
 
 <div align=center>
 <img src="./Tugas 3 png/GB5.png"/>
@@ -74,30 +74,80 @@ Berikut 50 Command yang saya coba di Linux Ubuntu:
 
 18. "wget" Mengunduh file dari internet. Disini saya mendownload google chrome.
 
-19. Menampilkan penggunaan disk dalam format yang mudah dibaca.
+19. "df -h" Menampilkan penggunaan disk dalam format yang mudah dibaca.
 
-20.
+20. "uptime" Menampilkan waktu sejak sistem terakhir di-boot dan informasi tentang beban sistem.
 
-21.
+21. "date" Menampilkan tanggal dan waktu saat ini.
  
 <div align=center>
 <img src="./Tugas 3 png/GB6.png"/>
 </div>
+
+22. "" 
+
 <div align=center>
 <img src="./Tugas 3 png/GB7.png"/>
 </div>
+
+23. "" 
+
 <div align=center>
 <img src="./Tugas 3 png/GB8.png"/>
 </div>
+
+24. "" 
+
 <div align=center>
 <img src="./Tugas 3 png/GB9.png"/>
 </div>
+
+25. "" 
+
+26. "" 
+
+27. "" 
+
 <div align=center>
 <img src="./Tugas 3 png/GB10.png"/>
 </div>
+
+28. "" 
+
+29. "" 
+
 <div align=center>
 <img src="./Tugas 3 png/GB11.png"/>
 </div>
+
+30. "" 
+
+31. "" 
+
 <div align=center>
 <img src="./Tugas 3 png/GB12.png"/>
+</div>
+
+32. "" 
+
+33. "" 
+
+34. ""
+
+35. "" 
+
+<div align=center>
+<img src="./Tugas 3 png/BG13.png"/>
+</div>
+
+<div align=center>
+<img src="./Tugas 3 png/GB14.png"/>
+</div>
+
+<div align=center>
+<img src="./Tugas 3 png/GB15.png"/>
+</div>
+
+<div align=center>
+<img src="./Tugas 3 png/GB16.png"/>
 </div>
