@@ -12,7 +12,7 @@ Kelas SK3C
 
 TUGAS LAINNYA
 -----------
--[TUGAS KE 1 & 2, INSTALASI LINUX DAN MENJAWAB PERTANYAAN](././)
+-[TUGAS KE 1 & 2, INSTALASI LINUX DAN MENJAWAB PERTANYAAN](../)
 ##
 <div align=center>
 <img src="./Tugas 3 png/GB1.png" width="1000"/>
