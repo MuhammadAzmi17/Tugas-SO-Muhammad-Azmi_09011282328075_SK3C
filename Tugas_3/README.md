@@ -14,8 +14,10 @@ TUGAS LAINNYA
 -----------
 -[TUGAS KE 1 & 2, INSTALASI LINUX DAN MENJAWAB PERTANYAAN](../)
 
+===============================================================
+
 Berikut 50 Command yang saya coba di Linux Ubuntu:
-##
+--
 <div align=center>
 <img src="./Tugas 3 png/GB1.png" width="1000"/>
 </div>
