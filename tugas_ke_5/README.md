@@ -60,10 +60,6 @@ Penjelasan dari saya(Penyelesaian):
 <div align=center>
    <img src= Gambar/P7.png alt= gambar 7 width= 1000>
 </div>
- 
-<div align=center>
-   <img src= Gambar/P8.png alt= gambar 8 width= 1000>
-</div>
 
 <div align=center>
    <img src= Gambar/P81.png alt= gambar 8 width= 1000>
