@@ -33,5 +33,51 @@ $ head /etc/passwd | tail –5 | sort
 Penjelasan dari saya(Penyelesaian):
 ----
 
-(div)
-(img= 
+<div align=center>
+   <img src= Gambar/P1.png alt= gambar 1 width= 1000>
+</div>
+
+<div align=center>
+   <img src= Gambar/P2.png alt= gambar 2 width= 1000>
+</div>
+
+<div align=center>
+   <img src= Gambar/P3.png alt= gambar 3 width= 1000>
+</div>
+
+<div align=center>
+   <img src= Gambar/P4.png alt= gambar 4 width= 1000>
+</div>
+
+<div align=center>
+   <img src= Gambar/P5.png alt= gambar 5 width= 1000>
+</div>
+
+<div align=center>
+   <img src= Gambar/P6.png alt= gambar 6 width= 1000>
+</div>
+
+<div align=center>
+   <img src= Gambar/P7.png alt= gambar 7 width= 1000>
+</div>
+ 
+<div align=center>
+   <img src= Gambar/P8.png alt= gambar 8 width= 1000>
+</div>
+
+<div align=center>
+   <img src= Gambar/P81.png alt= gambar 8 width= 1000>
+</div>
+
+<div align=center>
+   <img src= Gambar/P82.png alt= gambar 8 width= 1000>
+</div>
+
+<div align=center>
+   <img src= Gambar/P83.png alt= gambar 8 width= 1000>
+</div>
+
+
+<div align=center>
+   <img src= Gambar/P9.png alt= gambar 9 width= 1000>
+</div>
