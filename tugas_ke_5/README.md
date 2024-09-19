@@ -33,4 +33,5 @@ $ head /etc/passwd | tail –5 | sort
 Penjelasan dari saya(Penyelesaian):
 ----
 
-div
+(div)
+(img= 
