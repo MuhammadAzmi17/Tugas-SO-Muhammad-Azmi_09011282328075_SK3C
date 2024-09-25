@@ -4,6 +4,8 @@ By,Muhammad Azmi
 
 SK3C
 
+Praktikum Sistem Operasi
+
 Tugas ke 6
 ---
 1. Eksekusi seluruh profile yang ada :
