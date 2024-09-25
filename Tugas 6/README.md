@@ -1,5 +1,7 @@
 By,Muhammad Azmi
+
 09011282328075
+
 SK3C
 
 Tugas ke 6
