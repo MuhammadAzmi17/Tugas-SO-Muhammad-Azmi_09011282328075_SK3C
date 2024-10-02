@@ -1,4 +1,4 @@
-Prakti menyambungkan antar dua perangkat yang berbeda.
+Praktik menyambungkan antar dua perangkat yang berbeda.
 ---
 
 By,Muhammad Azmi
