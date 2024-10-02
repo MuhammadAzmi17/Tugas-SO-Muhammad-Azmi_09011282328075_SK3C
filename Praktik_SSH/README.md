@@ -91,4 +91,12 @@ Ip Address PC: 192.168.1.2
 
 ---
 
-Kemudian pasang Openssh dan jalankan ssh.
+Kemudian pasang Openssh dan jalankan ssh dengan command "sudo apt istall openssh-server" "sudo systemctl enable ssh" dan "sudo systemctl start ssh"
+
+---
+<div align="center">
+  <img src="./Image/G1.png" alt="Deskripsi Gambar" width="1000"/>
+   </div>
+Disini saya menyambungkan Laptop ke PC saya supaya bisa di kontrol melalui PC saya, untuk menyambungkannya gunakan command "ssh altmimi@192.168.1.3" altmimi = user dan 192.168.1.3 adalah ip address yang sudah saya set di laptop.
+
+
