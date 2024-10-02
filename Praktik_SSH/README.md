@@ -91,7 +91,7 @@ Ip Address PC: 192.168.1.2
 
 ---
 
-Kemudian pasang Openssh dan jalankan ssh dengan command "sudo apt istall openssh-server" "sudo systemctl enable ssh" dan "sudo systemctl start ssh"
+Kemudian pasang Openssh dan jalankan ssh dengan command "sudo apt istall openssh-server", "sudo systemctl enable ssh" dan "sudo systemctl start ssh"
 
 ---
 <div align="center">
