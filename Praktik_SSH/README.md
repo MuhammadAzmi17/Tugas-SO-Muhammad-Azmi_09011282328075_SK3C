@@ -102,6 +102,8 @@ Disini saya menyambungkan Laptop ke PC saya supaya bisa di kontrol melalui PC sa
 
 Kemudian gunakan "neofetch" untuk melihat informasi perangkat laptop yang sudah di remote.
 
+Dengan begini laptop sudah bisa dikendalikan melalui PC.
+
 ---
 2. Menggunakan WLAN(WiFi)
 
@@ -124,4 +126,4 @@ Saya juga sempat menginstall "neofetch" di Ubuntu melalui remote dari laptop dik
    </div>
 ---
 
-Mungkin itu saja dari saya, jikalau ada salah ketik dan peng-istilahan mohon maaf.
+Mungkin itu saja dari saya, jikalau ada salah ketik dan peng-istilahan mohon di maafkan.
