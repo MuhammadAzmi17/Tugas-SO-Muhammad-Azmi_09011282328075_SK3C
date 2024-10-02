@@ -36,6 +36,8 @@ Untuk Laptop:
 
 OS: Windows 11 Enterprise LTSC 24h2
 
+OS Virtual: Linux Mint Cinnamon
+
 CPU: i5 3210m 2.5Ghz
 
 Memory: DDR3 8GB 1600mhz Dualchanel
@@ -57,6 +59,8 @@ Untuk PC:
 
 OS: Windows 11 Enterprise LTSC 24h2
 
+OS Virtual: Linux Ubuntu 24
+
 CPU: i7 4770k 3.5Ghz
 
 Memory: DDR3 12GB 1333mhz Dualchanel (4.2.4.2)
@@ -75,6 +79,9 @@ Setelah LAN sudah terpilih, maka selanjutnya tinggal masuk ke Linux di kedua lap
 <div align="center">
   <img src="./Image/G1.png" alt="Deskripsi Gambar" width="1000"/>
    </div>
+<div align="center">
+  <img src="./Image/G4.png" alt="Deskripsi Gambar" width="1000"/>
+   </div>
 
 Pada kedua laptop saya menyeting Ip address secara manual,hal ini diperlukan supaya LAN terhubung.
 
@@ -82,3 +89,6 @@ Ip Address Laptop: 192.168.1.3
 
 Ip Address PC: 192.168.1.2
 
+---
+
+Kemudian pasang Openssh dan jalankan ssh.
