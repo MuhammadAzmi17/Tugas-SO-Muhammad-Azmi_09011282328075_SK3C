@@ -124,6 +124,7 @@ Saya juga sempat menginstall "neofetch" di Ubuntu melalui remote dari laptop dik
 <div align="center">
   <img src="./Image/G9.png" alt="Deskripsi Gambar" width="1000"/>
    </div>
+
 ---
 
 Mungkin itu saja dari saya, jikalau ada salah ketik dan peng-istilahan mohon di maafkan.
