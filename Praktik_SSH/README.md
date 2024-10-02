@@ -102,5 +102,26 @@ Disini saya menyambungkan Laptop ke PC saya supaya bisa di kontrol melalui PC sa
 
 Kemudian gunakan "neofetch" untuk melihat informasi perangkat laptop yang sudah di remote.
 
-2.Menggunakan WLAN(WiFi)
+---
+2. Menggunakan WLAN(WiFi)
 
+Sebenarnya metodenya hampir sama,tetapi untuk WLAN tidak perlu set Ip manual lagi, ip sudah automatis dan tinggal di lihat saja menggunakan command "ip addr show".
+
+<div align="center">
+  <img src="./Image/G12.png" alt="Deskripsi Gambar" width="1000"/>
+   </div>
+
+Dan untuk di atas set ke WiFi card,bukan LAN port lagi.
+
+Di sini saya meremote PC saya menggunakan Laptop(Kebalikan dari sebelumnya).
+<div align="center">
+  <img src="./Image/G8.png" alt="Deskripsi Gambar" width="1000"/>
+   </div>
+
+Saya juga sempat menginstall "neofetch" di Ubuntu melalui remote dari laptop dikarenakan Ubuntu tidak memilikinya secara default seperti yang saya lakukan di bawah ini
+<div align="center">
+  <img src="./Image/G9.png" alt="Deskripsi Gambar" width="1000"/>
+   </div>
+---
+
+Mungkin itu saja dari saya, jikalau ada salah ketik dan peng-istilahan mohon maaf.
