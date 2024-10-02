@@ -27,6 +27,7 @@ Berikut adalah langkah yang saya lakukan:
 Pertama-tama saya menyeting jaringan di virtualbox menggunakan Bridge adapter,setelah itu pilih port LAN pada Virtualbox kedua device.
 
 Berikut spek singkat dari Laptop dan PC yang saya gunakan untuk validasi kalau saya menggunakan 2 perangkat berbeda:
+
 Untuk Laptop:
 
 <div align="center">
@@ -39,7 +40,7 @@ CPU: i5 3210m 2.5Ghz
 
 Memory: DDR3 8GB 1600mhz Dualchanel
 
-seri Mobo: k55vm
+Seri Mobo: k55vm Rev 2.2
 
 Chipset: HM71
 
@@ -47,7 +48,7 @@ LAN: Realtek PCIe GbE Family controller
 
 WiFi Card: Atheros Wifi Card
 
-
+---
 Untuk PC:
 
 <div align="center">
@@ -57,9 +58,10 @@ Untuk PC:
 OS: Windows 11 Enterprise LTSC 24h2
 
 CPU: i7 4770k 3.5Ghz
+
 Memory: DDR3 12GB 1333mhz Dualchanel (4.2.4.2)
 
-seri Mobo: ASRock fatal1ty killer Z87
+Seri Mobo: ASRock fatal1ty killer Z87
 
 Chipset: Z87
 
@@ -67,8 +69,16 @@ LAN: Killer E2200 Gigabit Ethernet
 
 WiFi: USB WiFi dogle
 
+---
 Setelah LAN sudah terpilih, maka selanjutnya tinggal masuk ke Linux di kedua laptop.
 
 <div align="center">
   <img src="./Image/G1.png" alt="Deskripsi Gambar" width="1000"/>
    </div>
+
+Pada kedua laptop saya menyeting Ip address secara manual,hal ini diperlukan supaya LAN terhubung.
+
+Ip Address Laptop: 192.168.1.3
+
+Ip Address PC: 192.168.1.2
+
