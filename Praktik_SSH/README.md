@@ -13,5 +13,7 @@ Untuk praktik kali ini saya akan menghubungkan dua mesin virtual di dua device b
 Berikut adalah langkah yang saya lakukan:
 
  <div align="center">
-  <img src="./image/G1.png" alt="Deskripsi Gambar" width="1000"/>
+  <img src="./Image/G1.png" alt="Deskripsi Gambar" width="1000"/>
    </div>
+
+Pertama-tama saya 
